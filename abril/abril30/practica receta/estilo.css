@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	/*box-sizing:border-box;*/
+}
+div.wrap{
+	width:768px;
+	margin:auto;
+	background:#fff9f9;
+	padding:0 20px;
+	color:#595959;
+}
+h1{
+	font-size:26pt;
+	color:#656565;
+	text-align:center;
+	margin-bottom:20px;
+}
+h3{
+	color:#f9a9a9;
+	font-size:20pt;
+	text-align:center;
+}
+p{
+	
+	margin-bottom:20px;
+}
+p.centro{
+	text-align:center;
+}
+p.rosa{
+	background:#f9a9a9;
+	text-align:center;
+	padding:#1px;
+}
+p.rosa1{
+	width:60%;
+	margin:auto;
+	margin-bottom:20px;
+}
+i.opcion{
+	color:#000;
+	font-size:8pt;
+	margin-top:20px;
+}
+li{
+	margin-bottom:20px;
+	margin-left:10px;
+}

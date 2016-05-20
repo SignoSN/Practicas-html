@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Slider</title>
+    <link rel="stylesheet" href="css/estilo.css" media="screen" title="no title" charset="utf-8">
+  </head>
+  <body>
+    <div class="slider-wrapper theme-default">
+      <div id="slider" class="nivoSlider">
+        <img src="recursos/city1.jpg" alt="ciudad" />
+        <img src="recursos/city2.jpg" alt="ciudad" />
+        <img src="recursos/city3.jpg" alt="ciudad" />
+        <img src="recursos/city4.jpg" alt="ciudad" />
+        <img src="recursos/city5.jpg" alt="ciudad" />
+        <img src="recursos/city6.jpg" alt="ciudad" />
+      </div>
+
+    </div>
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/jquery.nivo.slider.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,79 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	font-family:Arial Helvetica sans-serif;
+	font-size:14pt;
+	background-color:#eee;
+}
+div#warp{
+	width:960px;
+	height:auto;
+	margin:auto;
+	padding:0;
+	background:#f9f9f9;
+}
+div#logo{
+	width:50px;
+	height:50px;
+	background:url(recurso/yamaha-logo-red-i5.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	float:left;
+	margin-right:30px;
+	margin-left:5%;
+}
+div#nav{
+	width:100%;
+	max-height:300px;
+	background-color:rgba(255,255,255,0.6);
+	position:fixed;
+}
+div#nav a{
+	text-decoration:none;
+	color:#f9f9f9;
+	font-size:20pt;
+	text-shadow:1px 2px 3px #44f;
+	margin-right: 10px;
+	transition:all 0.3s;
+}
+div#nav a:hover{
+	color:#009;
+	background:#fff;
+	border-bottom:5px solid #00f;
+}
+div#warp div{
+	width;100%;
+	padding:20px;
+	padding-top: 100px;
+}
+div#uno{
+	background:url(img/1.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+div#dos{
+	background:url(img/2.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+div#tres{
+	background:url(img/3.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+div#cuatro{
+	background:url(img/4.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+div p{
+	width:40%;
+	height: auto;
+	padding: 10px;
+	background-color: rgba(0, 0, 0, 0.7);
+	color: #fff;
+	font-size: 12pt;
+}

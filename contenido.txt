@@ -1,0 +1,675 @@
+./
+./abril/
+./abril/abril16/
+./abril/abril16/css/
+./abril/abril16/css/estilo.css
+./abril/abril16/img/
+./abril/abril16/img/2008 r6 4.jpg
+./abril/abril16/img/btnFZS.png
+./abril/abril16/img/descargar-imagenes-de-motos.jpg
+./abril/abril16/img/Imagenes de Motos Ducati (5).jpg
+./abril/abril16/img/Imagenes-de-motos-1.jpg
+./abril/abril16/img/kawasaki-h2r-2015-p-1.jpg
+./abril/abril16/img/moto.jpg
+./abril/abril16/img/motos_suzuki_010.jpg
+./abril/abril16/img/yamaha-1024x768.jpg
+./abril/abril16/img/yz250fx_2015.jpg
+./abril/abril16/index.html
+./abril/abril16/practica1/
+./abril/abril16/practica1/css/
+./abril/abril16/practica1/css/uno.css
+./abril/abril16/practica1/img/
+./abril/abril16/practica1/img/logo.png
+./abril/abril16/practica1/img/motos_suzuki_010.jpg
+./abril/abril16/practica1/img/yamaha-1024x768.jpg
+./abril/abril16/practica1/img/yz250fx_2015.jpg
+./abril/abril16/practica1/index.html
+./abril/abril16/practica1/js/
+./abril/abril16/practica1/js/funciones.js
+./abril/abril16/practica1/misc/
+./abril/abril16/practica1/misc/logo.psd
+./abril/abril16/recursos/
+./abril/abril23/
+./abril/abril23/gif.gif
+./abril/abril23/gif.psd
+./abril/abril23/index.html
+./abril/abril30/
+./abril/abril30/practica/
+./abril/abril30/practica/estilo.css
+./abril/abril30/practica/favicon.ico
+./abril/abril30/practica/img/
+./abril/abril30/practica/img/1.jpg
+./abril/abril30/practica/img/2.jpg
+./abril/abril30/practica/img/3.jpg
+./abril/abril30/practica/img/4.jpg
+./abril/abril30/practica/index.html
+./abril/abril30/practica/jquery.js
+./abril/abril30/practica/recurso/
+./abril/abril30/practica/recurso/yamaha-logo-red-i5.jpg
+./abril/abril30/practica/recurso/yamaha-logo-red-i5.png
+./abril/abril30/practica receta/
+./abril/abril30/practica receta/.DS_Store
+./abril/abril30/practica receta/._.DS_Store
+./abril/abril30/practica receta/._IMG
+./abril/abril30/practica receta/._receta-ejercicio.jpg
+./abril/abril30/practica receta/._receta.txt
+./abril/abril30/practica receta/estilo.css
+./abril/abril30/practica receta/funcion.js
+./abril/abril30/practica receta/IMG/
+./abril/abril30/practica receta/IMG/.DS_Store
+./abril/abril30/practica receta/IMG/._.DS_Store
+./abril/abril30/practica receta/IMG/._encabezado1.jpg
+./abril/abril30/practica receta/IMG/._footer.jpg
+./abril/abril30/practica receta/IMG/._foto_postre.jpg
+./abril/abril30/practica receta/IMG/encabezado1.jpg
+./abril/abril30/practica receta/IMG/encabezado2.jpg
+./abril/abril30/practica receta/IMG/footer.jpg
+./abril/abril30/practica receta/IMG/foto_postre.gif
+./abril/abril30/practica receta/IMG/foto_postre.jpg
+./abril/abril30/practica receta/IMG/foto_postre.psd
+./abril/abril30/practica receta/index.html
+./abril/abril30/practica receta/receta-ejercicio.jpg
+./abril/abril30/practica receta/receta.txt
+./abril/abril30/whisky/
+./abril/abril30/whisky/css/
+./abril/abril30/whisky/css/estilo.css
+./abril/abril30/whisky/favicon.ico
+./abril/abril30/whisky/img/
+./abril/abril30/whisky/img/botellas.jpg
+./abril/abril30/whisky/img/Bowmore_17.jpg
+./abril/abril30/whisky/img/jack-daniels.jpg
+./abril/abril30/whisky/img/JD_Gold_Medal_1915-1954-1981.jpg
+./abril/abril30/whisky/img/johnniewalker_redlabel9.jpg
+./abril/abril30/whisky/img/Kale_and_Nori3.jpg
+./abril/abril30/whisky/img/whisky_ice_cigar_ashtray_44583_3840x2160_phatch.jpg
+./abril/abril30/whisky/img/whisky_phatch.jpg
+./abril/abril30/whisky/index.html
+./abril/abril30/whisky/recursos/
+./abril/abril30/whisky/recursos/texto.txt
+./abril/tarea1/
+./abril/tarea1/arm-banner.jpg
+./abril/tarea1/cc25-live.jpg
+./abril/tarea1/contacto.html
+./abril/tarea1/for-whom-the-bell-poles.jpg
+./abril/tarea1/galeria.html
+./abril/tarea1/index.html
+./abril/tarea1/logo.jpg
+./abril/tarea1/monster-locke-small.jpg
+./abril/tarea1/st-ebba.jpg
+./abril/tarea1/the-red-sign-chapter-3.jpg
+./abril/tarea1/vicent.jpg
+./clase web/
+./clase web/imgs rollover/
+./clase web/imgs rollover/.DS_Store
+./clase web/imgs rollover/._.DS_Store
+./clase web/imgs rollover/._img01_off.png
+./clase web/imgs rollover/._img01_on.png
+./clase web/imgs rollover/._img02_off.png
+./clase web/imgs rollover/._img02_on.png
+./clase web/imgs rollover/._img03_off.png
+./clase web/imgs rollover/._img03_on.png
+./clase web/imgs rollover/img01_off.png
+./clase web/imgs rollover/img01_on.png
+./clase web/imgs rollover/img02_off.png
+./clase web/imgs rollover/img02_on.png
+./clase web/imgs rollover/img03_off.png
+./clase web/imgs rollover/img03_on.png
+./clase web/imgs rollover/index.html
+./clase web/optimizacion de imagenes/
+./clase web/optimizacion de imagenes/.DS_Store
+./clase web/optimizacion de imagenes/._.DS_Store
+./clase web/optimizacion de imagenes/._14675_1_miscellaneous_digital_art_colorful.jpg
+./clase web/optimizacion de imagenes/._194915__minimalism-apple-apple-icon-logo-circle-oval-green-white-white_p.jpg
+./clase web/optimizacion de imagenes/._Awesome-wallpaper-for-desktop.jpg
+./clase web/optimizacion de imagenes/._b116a6bc7f97c5f2d3667c912377bedb.jpg
+./clase web/optimizacion de imagenes/._Cute-Colorful-Pictures1.jpg
+./clase web/optimizacion de imagenes/._minimal-desktop-wallpaper-rainbow-colors.png
+./clase web/optimizacion de imagenes/._prototypebloqueovita.jpg.jpeg
+./clase web/optimizacion de imagenes/14675_1_miscellaneous_digital_art_colorful.jpg
+./clase web/optimizacion de imagenes/194915__minimalism-apple-apple-icon-logo-circle-oval-green-white-white_p.jpg
+./clase web/optimizacion de imagenes/Awesome-wallpaper-for-desktop.jpg
+./clase web/optimizacion de imagenes/b116a6bc7f97c5f2d3667c912377bedb.jpg
+./clase web/optimizacion de imagenes/Cute-Colorful-Pictures1.jpg
+./clase web/optimizacion de imagenes/minimal-desktop-wallpaper-rainbow-colors.png
+./clase web/optimizacion de imagenes/prototypebloqueovita.jpg.jpeg
+./clase web/TEENAGE MUTANT NINJA TURTLES - Official Trailer (2014) [HD].mp4
+./imagenes/
+./imagenes/2008 r6 4.jpg
+./imagenes/btnFZS.png
+./imagenes/descargar-imagenes-de-motos.jpg
+./imagenes/Imagenes de Motos Ducati (5).jpg
+./imagenes/Imagenes-de-motos-1.jpg
+./imagenes/kawasaki-h2r-2015-p-1.jpg
+./imagenes/moto.jpg
+./imagenes/motos_suzuki_010.jpg
+./imagenes/yamaha-1024x768.jpg
+./imagenes/yz250fx_2015.jpg
+./mayo/
+./mayo/mayo14/
+./mayo/mayo14/mi-slider/
+./mayo/mayo14/mi-slider/css/
+./mayo/mayo14/mi-slider/css/estilo.css
+./mayo/mayo14/mi-slider/img/
+./mayo/mayo14/mi-slider/img/1.jpg
+./mayo/mayo14/mi-slider/img/2.jpg
+./mayo/mayo14/mi-slider/img/3.jpg
+./mayo/mayo14/mi-slider/img/4.jpg
+./mayo/mayo14/mi-slider/img/5.jpg
+./mayo/mayo14/mi-slider/img/6.jpg
+./mayo/mayo14/mi-slider/img/arrows.png
+./mayo/mayo14/mi-slider/img/bullets.png
+./mayo/mayo14/mi-slider/img/loading.gif
+./mayo/mayo14/mi-slider/index.html
+./mayo/mayo14/mi-slider/js/
+./mayo/mayo14/mi-slider/js/jquery-1.11.3.min.js
+./mayo/mayo14/mi-slider/js/jquery.nivo.slider.js
+./mayo/mayo14/mi-slider/recursos/
+./mayo/mayo14/mi-slider/recursos/city1.jpg
+./mayo/mayo14/mi-slider/recursos/city2.jpg
+./mayo/mayo14/mi-slider/recursos/city3.jpg
+./mayo/mayo14/mi-slider/recursos/city4.jpg
+./mayo/mayo14/mi-slider/recursos/city5.jpg
+./mayo/mayo14/mi-slider/recursos/city6.jpg
+./mayo/mayo14/mi-slider/recursos/slider/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/jquery-1.11.1.min.js
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/demo.html
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/images/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/images/dev7logo.png
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/images/nemo.jpg
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/images/toystory.jpg
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/images/up.jpg
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/images/walle.jpg
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/scripts/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/scripts/jquery-1.9.0.min.js
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/demo/style.css
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/jquery.nivo.slider.js
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/jquery.nivo.slider.pack.js
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/license.txt
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/nivo-slider.css
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/README
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/bar/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/bar/arrows.png
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/bar/bar.css
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/bar/bullets.png
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/bar/loading.gif
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/dark/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/dark/arrows.png
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/dark/bullets.png
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/dark/dark.css
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/dark/loading.gif
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/default/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/default/arrows.png
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/default/bullets.png
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/default/default.css
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/default/loading.gif
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/light/
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/light/arrows.png
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/light/bullets.png
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/light/light.css
+./mayo/mayo14/mi-slider/recursos/slider/recursos/nivo-slider/themes/light/loading.gif
+./mayo/mayo14/mi-slider/recursos/slider/recursos/zetman1.jpg
+./mayo/mayo14/mi-slider/recursos/slider/recursos/zetman2.jpg
+./mayo/mayo14/mi-slider/recursos/slider/recursos/zetman3.jpg
+./mayo/mayo14/mi-slider/recursos/slider/recursos/zetman4.jpg
+./mayo/mayo14/mi-slider/recursos/slider/recursos/zetman5.jpg
+./mayo/mayo14/mi-slider/recursos/slider/recursos/zetman6.jpg
+./mayo/mayo14/mi-slider/recursos/slider/slider.rtf
+./mayo/mayo14/mi-slider/recursos/slider/tamaño sugerido.png
+./mayo/mayo14/slider/
+./mayo/mayo14/slider/css/
+./mayo/mayo14/slider/css/estilo.css
+./mayo/mayo14/slider/img/
+./mayo/mayo14/slider/img/arrows.png
+./mayo/mayo14/slider/img/bullets.png
+./mayo/mayo14/slider/img/loading.gif
+./mayo/mayo14/slider/index.html
+./mayo/mayo14/slider/js/
+./mayo/mayo14/slider/js/jquery-1.11.3.min.js
+./mayo/mayo14/slider/js/jquery.nivo.slider.js
+./mayo/mayo14/slider/padding.html
+./mayo/mayo14/slider/recursos/
+./mayo/mayo14/slider/recursos/city1.jpg
+./mayo/mayo14/slider/recursos/city2.jpg
+./mayo/mayo14/slider/recursos/city3.jpg
+./mayo/mayo14/slider/recursos/city4.jpg
+./mayo/mayo14/slider/recursos/city5.jpg
+./mayo/mayo14/slider/recursos/city6.jpg
+./mayo/mayo14/slider/recursos/slider/
+./mayo/mayo14/slider/recursos/slider/recursos/
+./mayo/mayo14/slider/recursos/slider/recursos/jquery-1.11.1.min.js
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/demo.html
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/images/
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/images/dev7logo.png
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/images/nemo.jpg
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/images/toystory.jpg
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/images/up.jpg
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/images/walle.jpg
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/scripts/
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/scripts/jquery-1.9.0.min.js
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/demo/style.css
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/jquery.nivo.slider.js
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/jquery.nivo.slider.pack.js
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/license.txt
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/nivo-slider.css
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/README
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/bar/
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/bar/arrows.png
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/bar/bar.css
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/bar/bullets.png
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/bar/loading.gif
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/dark/
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/dark/arrows.png
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/dark/bullets.png
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/dark/dark.css
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/dark/loading.gif
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/default/
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/default/arrows.png
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/default/bullets.png
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/default/default.css
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/default/loading.gif
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/light/
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/light/arrows.png
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/light/bullets.png
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/light/light.css
+./mayo/mayo14/slider/recursos/slider/recursos/nivo-slider/themes/light/loading.gif
+./mayo/mayo14/slider/recursos/slider/recursos/zetman1.jpg
+./mayo/mayo14/slider/recursos/slider/recursos/zetman2.jpg
+./mayo/mayo14/slider/recursos/slider/recursos/zetman3.jpg
+./mayo/mayo14/slider/recursos/slider/recursos/zetman4.jpg
+./mayo/mayo14/slider/recursos/slider/recursos/zetman5.jpg
+./mayo/mayo14/slider/recursos/slider/recursos/zetman6.jpg
+./mayo/mayo14/slider/recursos/slider/slider.rtf
+./mayo/mayo14/slider/recursos/slider/tamaño sugerido.png
+./mayo/mayo14/slider.zip
+./mayo/mayo7/
+./mayo/mayo7/Light Box/
+./mayo/mayo7/Light Box/colorbox-master-ok/
+./mayo/mayo7/Light Box/colorbox-master-ok/bower.json
+./mayo/mayo7/Light Box/colorbox-master-ok/colorbox.ai
+./mayo/mayo7/Light Box/colorbox-master-ok/colorbox.jquery.json
+./mayo/mayo7/Light Box/colorbox-master-ok/COMO HACER lightbox.rtf
+./mayo/mayo7/Light Box/colorbox-master-ok/content/
+./mayo/mayo7/Light Box/colorbox-master-ok/content/._ajax.html
+./mayo/mayo7/Light Box/colorbox-master-ok/content/ajax.html
+./mayo/mayo7/Light Box/colorbox-master-ok/content/daisy.jpg
+./mayo/mayo7/Light Box/colorbox-master-ok/content/daisy@2x.jpg
+./mayo/mayo7/Light Box/colorbox-master-ok/content/homer.jpg
+./mayo/mayo7/Light Box/colorbox-master-ok/content/marylou.jpg
+./mayo/mayo7/Light Box/colorbox-master-ok/content/ohoopee1.jpg
+./mayo/mayo7/Light Box/colorbox-master-ok/content/ohoopee2.jpg
+./mayo/mayo7/Light Box/colorbox-master-ok/content/ohoopee3.jpg
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/._images
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/colorbox.css
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/images/
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/images/._loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/images/border.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/images/controls.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/images/loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/images/loading_background.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/images/overlay.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example1/index.html
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/._colorbox.css
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/._images
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/._index.html
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/colorbox.css
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/images/
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/images/._loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/images/controls.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/images/loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example2/index.html
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/._colorbox.css
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/._images
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/._index.html
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/colorbox.css
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/images/
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/images/._loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/images/controls.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/images/loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example3/index.html
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/._colorbox.css
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/._images
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/._index.html
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/colorbox.css
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/images/
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/images/._loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/images/border1.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/images/border2.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/images/loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example4/index.html
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/._colorbox.css
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/._images
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/._index.html
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/colorbox.css
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/images/
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/images/._loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/images/border.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/images/controls.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/images/loading.gif
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/images/loading_background.png
+./mayo/mayo7/Light Box/colorbox-master-ok/example5/index.html
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-ar.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-bg.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-ca.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-cs.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-da.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-de.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-es.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-et.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-fa.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-fi.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-fr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-gl.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-gr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-he.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-hr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-id.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-it.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-ja.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-kr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-lt.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-lv.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-my.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-nl.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-no.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-pl.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-pt-br.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-ro.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-ru.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-si.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-sk.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-sv.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-tr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-uk.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-zh-CN.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-zh-TW.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-ar.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-bg.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-ca.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-cs.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-da.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-de.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-es.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-et.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-fa.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-fi.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-gl.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-gr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-he.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-hr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-hu.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-id.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-it.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-ja.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-kr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-lt.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-lv.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-my.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-nl.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-no.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-pl.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-pt-br.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-ro.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-ru.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-si.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-sk.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-sr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-sv.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-tr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-uk.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-zh-CN.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-zh-TW.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-hu.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/._jquery.colorbox-sr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/i18n/jquery.colorbox-fr.js
+./mayo/mayo7/Light Box/colorbox-master-ok/jquery.colorbox.js
+./mayo/mayo7/Light Box/jquery-1.11.3.min.js
+./mayo/mayo7/Light Box/slider/
+./mayo/mayo7/Light Box/slider/recursos/
+./mayo/mayo7/Light Box/slider/recursos/jquery-1.11.1.min.js
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/demo.html
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/images/
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/images/dev7logo.png
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/images/nemo.jpg
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/images/toystory.jpg
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/images/up.jpg
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/images/walle.jpg
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/scripts/
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/scripts/jquery-1.9.0.min.js
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/demo/style.css
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/jquery.nivo.slider.js
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/jquery.nivo.slider.pack.js
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/license.txt
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/nivo-slider.css
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/README
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/bar/
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/bar/arrows.png
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/bar/bar.css
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/bar/bullets.png
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/bar/loading.gif
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/dark/
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/dark/arrows.png
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/dark/bullets.png
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/dark/dark.css
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/dark/loading.gif
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/default/
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/default/arrows.png
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/default/bullets.png
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/default/default.css
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/default/loading.gif
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/light/
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/light/arrows.png
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/light/bullets.png
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/light/light.css
+./mayo/mayo7/Light Box/slider/recursos/nivo-slider/themes/light/loading.gif
+./mayo/mayo7/Light Box/slider/recursos/zetman1.jpg
+./mayo/mayo7/Light Box/slider/recursos/zetman2.jpg
+./mayo/mayo7/Light Box/slider/recursos/zetman3.jpg
+./mayo/mayo7/Light Box/slider/recursos/zetman4.jpg
+./mayo/mayo7/Light Box/slider/recursos/zetman5.jpg
+./mayo/mayo7/Light Box/slider/recursos/zetman6.jpg
+./mayo/mayo7/Light Box/slider/slider.rtf
+./mayo/mayo7/Light Box/slider/tamaño sugerido.png
+./mayo/mayo7/listas/
+./mayo/mayo7/listas/css/
+./mayo/mayo7/listas/css/colorbox.css
+./mayo/mayo7/listas/css/colorbox0.css
+./mayo/mayo7/listas/css/uno.css
+./mayo/mayo7/listas/galeria.html
+./mayo/mayo7/listas/img/
+./mayo/mayo7/listas/img/1.jpg
+./mayo/mayo7/listas/img/2.jpg
+./mayo/mayo7/listas/img/3.jpg
+./mayo/mayo7/listas/img/4.jpg
+./mayo/mayo7/listas/img/5.jpg
+./mayo/mayo7/listas/img/6.jpg
+./mayo/mayo7/listas/img/border.png
+./mayo/mayo7/listas/img/controls.png
+./mayo/mayo7/listas/img/loading.gif
+./mayo/mayo7/listas/img/loading_background.png
+./mayo/mayo7/listas/img/ohoopee1.jpg
+./mayo/mayo7/listas/img/ohoopee2.jpg
+./mayo/mayo7/listas/img/ohoopee3.jpg
+./mayo/mayo7/listas/img/overlay.png
+./mayo/mayo7/listas/index.html
+./mayo/mayo7/listas/js/
+./mayo/mayo7/listas/js/jquery-1.11.3.min.js
+./mayo/mayo7/listas/js/jquery.colorbox.js
+./mayo/mayo7/listas/recursos/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/bower.json
+./mayo/mayo7/listas/recursos/colorbox-master-ok/colorbox.ai
+./mayo/mayo7/listas/recursos/colorbox-master-ok/colorbox.jquery.json
+./mayo/mayo7/listas/recursos/colorbox-master-ok/COMO HACER lightbox.rtf
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/._ajax.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/ajax.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/daisy.jpg
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/daisy@2x.jpg
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/homer.jpg
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/marylou.jpg
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/ohoopee1.jpg
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/ohoopee2.jpg
+./mayo/mayo7/listas/recursos/colorbox-master-ok/content/ohoopee3.jpg
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/._images
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/colorbox.css
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/images/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/images/._loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/images/border.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/images/controls.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/images/loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/images/loading_background.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/images/overlay.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example1/index.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/._colorbox.css
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/._images
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/._index.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/colorbox.css
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/images/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/images/._loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/images/controls.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/images/loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example2/index.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/._colorbox.css
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/._images
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/._index.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/colorbox.css
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/images/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/images/._loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/images/controls.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/images/loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example3/index.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/._colorbox.css
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/._images
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/._index.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/colorbox.css
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/images/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/images/._loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/images/border1.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/images/border2.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/images/loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example4/index.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/._colorbox.css
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/._images
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/._index.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/colorbox.css
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/images/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/images/._loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/images/border.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/images/controls.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/images/loading.gif
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/images/loading_background.png
+./mayo/mayo7/listas/recursos/colorbox-master-ok/example5/index.html
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-ar.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-bg.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-ca.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-cs.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-da.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-de.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-es.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-et.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-fa.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-fi.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-fr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-gl.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-gr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-he.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-hr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-id.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-it.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-ja.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-kr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-lt.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-lv.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-my.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-nl.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-no.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-pl.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-pt-br.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-ro.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-ru.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-si.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-sk.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-sv.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-tr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-uk.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-zh-CN.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-zh-TW.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-ar.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-bg.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-ca.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-cs.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-da.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-de.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-es.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-et.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-fa.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-fi.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-gl.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-gr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-he.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-hr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-hu.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-id.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-it.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-ja.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-kr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-lt.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-lv.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-my.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-nl.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-no.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-pl.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-pt-br.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-ro.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-ru.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-si.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-sk.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-sr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-sv.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-tr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-uk.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-zh-CN.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-zh-TW.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-hu.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/._jquery.colorbox-sr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/i18n/jquery.colorbox-fr.js
+./mayo/mayo7/listas/recursos/colorbox-master-ok/jquery.colorbox.js
+./mayo/mayo7/practica/
+./mayo/mayo7/practica/css/
+./mayo/mayo7/practica/css/colorbox.css
+./mayo/mayo7/practica/css/uno.css
+./mayo/mayo7/practica/img/
+./mayo/mayo7/practica/img/1.jpg
+./mayo/mayo7/practica/img/2.jpg
+./mayo/mayo7/practica/img/3.jpg
+./mayo/mayo7/practica/img/4.jpg
+./mayo/mayo7/practica/img/5.jpg
+./mayo/mayo7/practica/img/6.jpg
+./mayo/mayo7/practica/img/controls.png
+./mayo/mayo7/practica/img/loading.gif
+./mayo/mayo7/practica/index.html
+./mayo/mayo7/practica/js/
+./mayo/mayo7/practica/js/jquery-1.11.3.min.js
+./mayo/mayo7/practica/js/jquery.colorbox.js
