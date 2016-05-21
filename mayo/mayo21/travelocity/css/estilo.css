@@ -1,7 +1,7 @@
 /* The Nivo Slider styles */
 .nivoSlider {
 	position:relative;
-	width:80%;
+	width:100%;
 	height:auto;
 	overflow: hidden;
 }
@@ -15,7 +15,7 @@
 .theme-dark.slider-wrapper {
     background: #222;
     padding: 10px;
-		width: 600px;
+		width: 100%;
 		margin: auto;
 }
 .theme-dark .nivoSlider {
