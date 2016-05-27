@@ -1,2 +1,7 @@
 paginas.tar.gz
 contenido.txt
+*.zip
+*.rar
+*.tar
+*.tar.gz
+.gitignore
