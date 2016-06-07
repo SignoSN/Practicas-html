@@ -1,0 +1,108 @@
+body{
+  background: #555;
+}
+div{
+  margin-bottom: 25px;
+
+}
+.azul{
+  width: 300px;
+  height: 300px;
+  background: #06f;
+  border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -ms-border-radius: 20px;
+}
+.rojo{
+  width: 300px;
+  height: 300px;
+  background: #f90909;
+  box-shadow: 10px 5px 20px #500;
+  -moz-box-shadow: 10px 5px 20px #500;
+  -webkit-box-shadow: 10px 5px 20px #500;
+  -ms-box-shadow: 10px 5px 20px #500;
+}
+.verde{
+  width: 300px;
+  height: 300px;
+  background: rgba(0, 255, 0, 0.5);
+}
+.naranja{
+  width: 300px;
+  height: 300px;
+  background: #f99900;
+  opacity: .5;
+}
+#uno{
+  width: 300px;
+  height: 300px;
+  background: #e9e9f9;
+  transition: width 1s, height 2s, background .5s;
+  -moz-transition: width 1s, height 2s, background .5s;
+  -webkit-transition: width 1s, height 2s, background .5s;
+  -ms-transition: width 1s, height 2s, background .5s;
+}
+#uno:hover{
+  width: 900px;
+  height: 500px;
+  background: #0909f9;
+}
+.gris{
+  width: 300px;
+  height: 300px;
+  background: #aaa;
+  transform: translate(100px,1px);
+  -moz-transform: translate(100px,1px);
+  -webkit-transform: translate(100px,1px);
+  -o-transform: translate(100px,1px);
+  -ms-transform: translate(100px,1px);
+  transition: transform 2s;
+}
+.gris:hover{
+  transform: translate(500px,1px);
+  -moz-transform: translate(500px,1px);
+  -webkit-transform: translate(500px,1px);
+  -o-transform: translate(500px,1px);
+  -ms-transform: translate(500px,1px);
+}
+.negro{
+  width:300px;
+  height: 300px;
+  background: #000;
+  transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transition: all .5s;
+}
+.negro:hover{
+  background: #0505f9;
+  transform: rotate(1440deg);
+  -moz-transform: rotate(1440deg);
+  -webkit-transform: rotate(1440deg);
+  -o-transform: rotate(1440deg);
+  -ms-transform: rotate(1440deg);
+}
+.blanco{
+  width:300px;
+  height: 300px;
+  background: #fff;
+  transform: scale(1);
+  transition: transform 1s;
+
+}
+.blanco:hover{
+  transform: scale(2,3);
+}
+.cyan{
+  width: 300px;
+  height: 300px;
+  background: #0ff;
+  transform: skew(5deg,10deg);
+  transition: transform 2s;
+}
+.cyan:hover{
+  transform: skew(30deg,20deg);
+}

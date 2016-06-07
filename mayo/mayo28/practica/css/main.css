@@ -1,0 +1,87 @@
+*{
+  margin: 0;
+  padding: 0;
+  /*box-sizing: border-box;*/
+}
+.wrap{
+  width: 80%;
+  margin: auto;
+}
+header{
+  background: #aaa;
+  width: 100%;
+  height: 100px;
+}
+.menu{
+  list-style: none;
+  width: 80%;
+  margin: auto;
+
+}
+.menu li{
+display: inline;
+  padding-right: 5px;
+  height: 80px;
+}
+.menu li a{
+  display: inline-flex;
+  float: left;
+  height: 50px;
+  padding: 5px;
+  background: #159;
+  color: #fff;
+  text-decoration: none;
+  transition: all .5s;
+}
+.menu li a:hover{
+  height: 80px;
+  color: #009;
+  background: #ddf;
+}
+section{
+  margin-top: 90px;
+}
+.centro{
+  width: 80%;
+  min-height: 300px;
+  border: 1px solid #aaa;
+  margin: auto;
+  position: relative;
+}
+.margen:nth-child(odd){
+  transform: rotate(0deg);
+  transition: all .5s;
+  position: relative;
+  z-index: 0;
+}
+.margen:nth-child(odd):hover{
+  transform: rotate(45deg);
+  z-index: 1;
+}
+.margen:nth-child(even){
+  transform: scale(1);
+  transition: all .5s;
+  position: relative;
+  z-index: 0;
+
+}
+.margen:nth-child(even):hover{
+  transform: scale(2);
+  z-index: 1;
+}
+.margen {
+  width: 30%;
+  height: auto;
+  /*border: 1px solid #aaf;*/
+  background: #ccc;
+  float: left;
+  padding: 1.55%;
+
+}
+p{
+  margin-bottom: 20px;
+}
+/*.segundo{
+  position: relative;;
+  z-index: 10;
+}*/

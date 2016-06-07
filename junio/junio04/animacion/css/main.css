@@ -1,0 +1,45 @@
+div{
+  /*80 x 80px
+  position relative*/
+  width: 80px;
+  height: 80px;
+  background: #456;
+  position: relative;
+  animation:primera 8s infinite;
+  -webkit-animation:primera 8s infinite;
+  -moz-animation:primera 8s infinite;
+  -ms-animation:primera 8s infinite;
+}
+@keyframes primera{
+  25%{
+    background: #99f;
+    left: 0;
+    top: 0;
+    border-radius: 0;
+  }
+  50%{
+    background: #9ff;
+    left: 100px;
+    top: 0;
+    border-radius: 22px;
+    -moz-border-radius: 22px;
+    -webkit-border-radius: 22px;
+    -o-border-radius: 22px;
+    -ms-border-radius: 22px;
+  }
+  75%{
+    background: #99f;
+    left: 100px;
+    top: 100px;
+    border-radius: 44px;
+    -moz-border-radius: 44px;
+    -webkit-border-radius: 44px;
+    -o-border-radius: 44px;
+    -ms-border-radius: 44px;
+  }
+  100%{
+    background: #396;
+    top: 0;
+    left: 0;
+  }
+}

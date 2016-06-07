@@ -1,0 +1,96 @@
+*{
+  -webkit-box-sizing: border-box;;
+  -moz-box-sizing: border-box;;
+  box-sizing: border-box;;
+}
+header{
+  widows: 100%;
+  height: 180px;
+  background: #009;
+}
+header h1{
+  text-align: center;
+  color: white;
+  font-size: 72pt;
+}
+nav .menu{
+  list-style: none;
+}
+nav .menu li{
+  padding: 10px;
+  display: inline-block;
+  width: 20%;
+  margin-top: 60px;
+
+}
+nav .menu li a{
+  background: #030;
+  padding: 10px 30%;
+  color: #fff;
+  text-decoration: none;
+  width: 100%;
+  text-align: center;
+  transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -webkit-transform: scale(1);
+  transition: all 0.3s;
+}
+nav .menu li a:hover{
+  transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+
+  background: #000;
+}
+nav{
+  widows: 100%;
+  height: 180px;
+  background: #090;
+  margin: 15px 0;
+}
+section{
+  padding: 20px;
+}
+#uno{
+  width:30%;
+  height: 600px;
+  background: yellow;
+  float: left;
+}
+#dos{
+  width: 37%;
+  height: 600px;
+  background: red;
+  margin-left: 3%;
+  float: left;
+}
+#tres{
+  width: 27%;
+  height: 200px;
+  background: orange;
+  float: left;
+  margin-left: 3%;
+}
+#cuatro{
+  width: 27%;
+  height: 170px;
+  background: cyan;
+  float: left;
+  /*margin-left: 3%;*/
+  margin: 15px 0 15px 3%;
+}
+#cinco{
+  width: 27%;
+  height: 200px;
+  background: grey;
+  float: left;
+  margin-left: 3%;
+}
+footer{
+  width: 100%;
+  height: 125px;
+  background: #000;
+  float: left;
+}
