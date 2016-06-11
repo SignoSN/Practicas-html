@@ -3,6 +3,9 @@
   -moz-box-sizing: border-box;;
   box-sizing: border-box;;
 }
+body{
+  background: #000;
+}
 header{
   widows: 100%;
   height: 180px;
@@ -24,7 +27,7 @@ nav .menu li{
 
 }
 nav .menu li a{
-  background: #030;
+  background: #003;
   padding: 10px 30%;
   color: #fff;
   text-decoration: none;
@@ -47,16 +50,19 @@ nav .menu li a:hover{
 nav{
   widows: 100%;
   height: 180px;
-  background: #090;
+  background: #FFF;
+  border:5px solid #001;
   margin: 15px 0;
 }
 section{
   padding: 20px;
+
 }
 #uno{
   width:30%;
   height: 600px;
   background: yellow;
+  color: #005;
   float: left;
 }
 #dos{
@@ -65,18 +71,20 @@ section{
   background: red;
   margin-left: 3%;
   float: left;
+  color: #f1f1f1;
+  overflow: scroll;
 }
 #tres{
   width: 27%;
   height: 200px;
-  background: orange;
+  background: yellow;
   float: left;
   margin-left: 3%;
 }
 #cuatro{
   width: 27%;
   height: 170px;
-  background: cyan;
+  background: blue;
   float: left;
   /*margin-left: 3%;*/
   margin: 15px 0 15px 3%;
@@ -84,13 +92,16 @@ section{
 #cinco{
   width: 27%;
   height: 200px;
-  background: grey;
+  background: red;
   float: left;
   margin-left: 3%;
 }
 footer{
+  margin-top:20px;
   width: 100%;
   height: 125px;
-  background: #000;
+  background: #FFF;
+  border:5px solid #000;
+  padding: 10px;
   float: left;
 }
