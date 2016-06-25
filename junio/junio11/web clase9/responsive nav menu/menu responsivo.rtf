@@ -1,0 +1,61 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red243\green235\blue0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 MENU PREDISE\'d1ADO (Responsive)\
+\
+1.- Buscar el menu responsivo en 
+\b responsive-nav.com
+\b0 , que es de codigo libre.
+\b \
+
+\b0 2.- Descargar el menu y abrir el index.html desde 
+\b demos/advanced.
+\b0 \
+3.- Guardar un nuevo archivo como menu-resposivo en un nuevo sitio llamado menu.\
+4.- Pasar todo lo de body de index.html al documento que trabajamos.\
+5.- Copiar tambi\'e9n de head desde 
+\b meta name=\'93viewport\'94 al script
+\b0  y pegar a nuestro documento (abajo de la hoja de estilo si la hubiera). \
+6.- Colocar la etiqueta 
+\b meta name=\'93viewport\'94 
+\b0 debajo de 
+\b meta charset 
+\b0 forzosamente\
+7.- *En el c\'f3digo indica que debemos encontrar styles.css, responsive-nav.js y responsive-nav.css, asi que en nuestra carpeta css, creamos una nueva carpeta llamada 
+\b menu,
+\b0  colocamos esos tres archivos y le damos la ruta adecuada para encontrarlos desde nuestro archivo.\
+8.- En responsive-nav.css, buscamos el jquery 
+\b @media screen and (min-width: 40em) 
+\b0 y lo cambiamos por 
+\b 480px
+\b0  - que es un tama\'f1o para dispositivos m\'f3viles-.\
+9.- Checar en el navegador.\
+\
+
+\fs28 \cf2 \cb0 * Cuando usemos plugins de terceros, debemos cuidar que los estilos no interfieran con los nuestros, si as\'ed sucede, debemos modificar 
+\b su 
+\b0 c\'f3digo. Si esto pasara, podemos:
+\fs24 \cf0 \cb1 \
+\
+a.- Ir a styles y comentar todo lo de body, div, h1, etc. para que no afecte nuestro dise\'f1o (o comentar atributos individuales como background color del body) .\
+b.- Quitar valores por default como\
+	\
+	margin:0%\
+	padding:0%\
+	Border:0%\
+\
+c.- Ubicarnos en la zona o div donde esta el problema para checar las especificaciones y modificarlo.\
+d.- Al pegar otro c\'f3digo a nuestro archivo, podemos hacer una separaci\'f3n comentada para destacar:\
+\
+\
+/*****************************************\
+Aqui comienza el menu responsive**********************/\
+\
+e.- El orden es estilos.css (el nuestro)\
+		responsive-nav.css\
+		styles.css \
+\
+}

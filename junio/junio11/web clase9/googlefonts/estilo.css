@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/*Copiamos dentro de head el link de la google font selecionada, ejemplo; 
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+*/
+
+/*Copiamos dentro de una etiqueta style el siguiente jquery dentro de nuestro documento html*/
+<style>
+
+
+
+/*Elegimos la font family dentro de body, en este caso Roboto*/
+
+
+body {font-family: /*'Roboto'*/, sans-serif;}
+
+</style>
+
+
+
+/*Elegimos el tamaño y atributos del container
+
+
+#container {width:600px;
+	height:auto;
+	background-color:#939;
+	margin:0 auto;
+	padding:10px 20px;
+}
+
+*/
+

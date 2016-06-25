@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <style media="screen">
+  body{
+    background: #002;
+    animation: cambio 0.5s infinite;
+    -moz-animation: cambio 0.5s infinite;
+    -webkit-animation: cambio 0.5s infinite;
+    -o-animation: cambio 0.5s infinite;
+    -ms-animation: cambio 0.5s infinite;
+  }
+    div.bola{
+      width: 80px;
+      height: 80px;
+      border-radius: 40px;
+      background: #66F;
+      position: relative;
+      animation:primera 4s infinite;
+      -webkit-animation:primera 4s infinite;
+      -moz-animation:primera 4s infinite;
+      -o-animation:primera 4s infinite;
+      -ms-animation:primera 4s infinite;
+    }
+    div.palo1{
+      width:5px;
+      height: 100px;
+      background: #556;
+      box-shadow: 0 0 5px #eef;
+      position: relative;
+      animation:segundo 4s infinite;
+      -moz-animation:segundo 4s infinite;
+      -webkit-animation:segundo 4s infinite;
+      -o-animation:segundo 4s infinite;
+      -ms-animation:segundo 4s infinite;
+    }
+    div.palo2{
+      width:5px;
+      height: 100px;
+      background: #556;
+      box-shadow: 0 0 5px #eef;
+      position: relative;
+      animation:tercero 4s infinite;
+      -moz-animation:tercero 4s infinite;
+      -webkit-animation:tercero 4s infinite;
+      -o-animation:tercero 4s infinite;
+      -ms-animation:tercero 4s infinite;
+    }
+    @keyframes primera{
+      0%{
+        top:250px;
+        left: 0;
+      }
+      25%{
+        top:500px;
+        left: 500px;
+      }
+      50%{
+        top:25px;
+        left: 960px;
+      }
+      51%{
+        top:-100px;
+        left: 900px;
+      }
+      75%{
+        top:500px;
+        left: 400px;
+      }
+      100%{
+        top:250px;
+        left: 0;
+      }
+    }
+    -moz-@keyframes primera{
+      0%{
+        top:250px;
+        left: 0;
+      }
+      25%{
+        top:500px;
+        left: 500px;
+      }
+      50%{
+        top:25px;
+        left: 960px;
+      }
+      51%{
+        top:-100px;
+        left: 900px;
+      }
+      75%{
+        top:500px;
+        left: 400px;
+      }
+      100%{
+        top:250px;
+        left: 0;
+      }
+    }
+    -webkit-@keyframes primera{
+      0%{
+        top:250px;
+        left: 0;
+      }
+      25%{
+        top:500px;
+        left: 500px;
+      }
+      50%{
+        top:25px;
+        left: 960px;
+      }
+      51%{
+        top:-100px;
+        left: 900px;
+      }
+      75%{
+        top:500px;
+        left: 400px;
+      }
+      100%{
+        top:250px;
+        left: 0;
+      }
+    }
+    -o-@keyframes primera{
+      0%{
+        top:250px;
+        left: 0;
+      }
+      25%{
+        top:500px;
+        left: 500px;
+      }
+      50%{
+        top:25px;
+        left: 960px;
+      }
+      51%{
+        top:-100px;
+        left: 900px;
+      }
+      75%{
+        top:500px;
+        left: 400px;
+      }
+      100%{
+        top:250px;
+        left: 0;
+      }
+    }
+    -ms-@keyframes primera{
+      0%{
+        top:250px;
+        left: 0;
+      }
+      25%{
+        top:500px;
+        left: 500px;
+      }
+      50%{
+        top:25px;
+        left: 960px;
+      }
+      51%{
+        top:-100px;
+        left: 900px;
+      }
+      75%{
+        top:500px;
+        left: 400px;
+      }
+      100%{
+        top:250px;
+        left: 0;
+      }
+    }
+    @keyframes segundo{
+      0%{
+        top:250px;
+        left: 0;
+        background: #115;
+      }
+      100%{
+        top:350px;
+        left: 0;
+        background: #511;
+      }
+    }
+    -moz-@keyframes segundo{
+      0%{
+        top:250px;
+        left: 0;
+        background: #115;
+      }
+      100%{
+        top:350px;
+        left: 0;
+        background: #511;
+      }
+    }
+    -webkit-@keyframes segundo{
+      0%{
+        top:250px;
+        left: 0;
+        background: #115;
+      }
+      100%{
+        top:350px;
+        left: 0;
+        background: #511;
+      }
+    }
+    -o-@keyframes segundo{
+      0%{
+        top:250px;
+        left: 0;
+        background: #115;
+      }
+      100%{
+        top:350px;
+        left: 0;
+        background: #511;
+      }
+    }
+    -ms-@keyframes segundo{
+      0%{
+        top:250px;
+        left: 0;
+        background: #115;
+      }
+      100%{
+        top:350px;
+        left: 0;
+        background: #511;
+      }
+    }
+    -webkit-@keyframes segundo{
+      0%{
+        top:250px;
+        left: 0;
+        background: #115;
+      }
+      100%{
+        top:350px;
+        left: 0;
+        background: #511;
+      }
+    }
+@keyframes tercero{
+  0%{
+    top:250px;
+    left: 1040px;
+  }
+  35%{
+    top:250px;
+    left: 1040px;
+  }
+  40%{
+    top: -25px;
+    left: 1040px;
+  }
+  100%{
+    top:-30px;
+    left: 1040px;
+    background: #511;
+  }
+}
+@keyframes cambio{
+  50%{
+    background: #313;
+  }
+}
+  </style>
+  <body>
+    <div class="palo1">
+
+    </div>
+    <div class="bola">
+
+    </div>
+    <div class="palo2">
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Blur</title>
+    <style media="screen">
+      .blur img{
+        filter: blur(200px);
+        -webkit-filter: blur(200px);
+        -moz-filter: blur(200px);
+        -o-filter: blur(200px);
+        -ms-filter: blur(200px);
+        transition: all .3s;
+      }
+      .blur img:hover{
+        filter: blur(0px);
+        -webkit-filter: blur(0px);
+        -moz-filter: blur(0px);
+        -o-filter: blur(0px);
+        -ms-filter: blur(0px);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="blur">
+      <img src="1.jpg" width="50%"  />
+    </div>
+  </body>
+</html>

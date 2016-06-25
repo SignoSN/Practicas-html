@@ -1,0 +1,61 @@
+/*div{
+  float: left;
+}*/
+.azul{
+  width: 50%;
+  height: 300px;
+  background: #00f;
+  float: left;
+}
+.rojo{
+  width: 50%;
+  height: 300px;
+  background: #f00;
+  float: left;
+}
+.amarillo{
+  width: 100%;
+  height: 300px;
+  background: #ff0;
+  float: left;
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+  .azul{
+    width: 20%;
+    height: 300px;
+    background: #005;
+    float: left;
+  }
+  .rojo{
+    width: 70%;
+    height: 300px;
+    background: #500;
+    float: left;
+  }
+  .amarillo{
+    width: 10%;
+    height: 300px;
+    background: #550;
+    float: left;
+  }
+}
+@media only screen and (max-width:480px) {
+  .azul{
+    width: 100%;
+    height: 400px;
+    background: #005;
+    float: left;
+  }
+  .rojo{
+    width: 100%;
+    height: 400px;
+    background: #500;
+    float: left;
+  }
+  .amarillo{
+    width: 100%;
+    height: 400px;
+    background: #550;
+    float: left;
+  }
+}
