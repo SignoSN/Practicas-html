@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario inecesariamente extenso</title>
+	<link rel="stylesheet" href="main.css">
+</head>
+<body>
+<h1 align="center">Formulario</h1>
+	<form action="datos.php" method="post">
+
+		<div class="personales">
+			<h3 align="center">Datos Personales</h3>
+				<div class="grupo">
+					<label for="nombre">*Nombre:</label>
+					<input type="text" maxlength="30" name="nombre" placeholder="Nombre:" required>
+				</div>
+				<div class="grupo">
+					<label for="apaterno">*Apellido Paterno</label>
+					<input type="text" maxlength="30" name="apaterno" placeholder="Apellido Paterno:" required>
+				</div>
+				<div class="grupo">
+					<label for="amaterno">Apellido Materno</label>
+					<input type="text" maxlength="30" name="amaterno" placeholder="Apellido Materno:">
+				</div>
+				<div class="grupo">
+					<p>Sexo</p>
+					<input type="radio" name="sexo" value="masculino" id="masculino">
+					<label for="masculino">Masculino</label>
+					<input type="radio" name="sexo" value="femenino" id="femenino">
+					<label for="femenino">Femenino</label>
+				</div>
+		</div>
+		<div class="demografia">
+			<h3 align="center">Demografía</h3>
+			<div class="grupo">
+			<p>Nacionalidad</p>
+					<input type="radio" name="nacionalidad" value="mexicana" id="mexicana">
+					<label for="mexicana">Mexicana</label>
+					<input type="radio" name="nacionalidad" value="otra" id="otra">
+					<label for="otra">Otra</label>
+			</div>
+			<div class="grupo">
+				<label for="residencia">*Lugar de Residencia</label>
+				<select name="residencia">
+					<option value="afganistan">AFGANISTAN</option>
+					<option value="albania">ALBANIA</option>
+					<option value="alemania">ALEMANIA</option>
+					<option value="andorra">ANDORRA</option>
+					<option value="arabia saudita">ARABIA SAUDITA</option>
+					<option value="argelia">ARGELIA</option>
+					<option value="argentina">ARGENTINA</option>
+					<option value="australia">AUSTRALIA</option>
+					<option value="austria">AUSTRIA</option>
+					<option value="brasil">BRASIL</option>
+					<option value="camerun">CAMERUN</option>
+					<option value="chile">CHILE</option>
+					<option value="ecuador">ECUADOR</option>
+					<option value="españa">ESPAÑA</option>
+					<option value="italia">ITALIA</option>
+					<option value="marruecos">MARRUECOS</option>
+					<option value="mexico">MÉXICO</option>
+					<option value="paraguay">PARAGUAY</option>
+					<option value="peru">PERU</option>
+					<option value="urugay">URUGAY</option>
+					<option value="venezuela">VENEZUELA</option>
+				</select>
+			</div>
+			<div class="grupo">
+				<label for="localidad">*Localidad:</label>
+				<input type="text" name="localidad" placeholder="Localidad" required>
+			</div>
+			<div class="grupo">
+				<label for="telefono">Teléfono (incluir LADA)</label>
+				<input type="text" name="telefono" placeholder="Teléfono:">
+			</div>
+		</div>
+
+		<div class="contacto">
+			<h3 align="center">Información de Contacto</h3>
+			<div class="grupo">
+				<label for="correo">*Correo:</label>
+				<input type="email" name="correo" placeholder="Correo:" required>
+			</div>
+			<div class="grupo">
+				<label for="celular">*Celular:</label>
+				<input type="text" name="celular" placeholder="Celular:" required>
+			</div>
+		</div>
+
+		<div class="academico">
+			<h3 align="center">Información Académica</h3>
+			<div class="grupo">
+				<p>*Nivel Máximo de Estudios</p>
+				<input type="radio" value="" name="estudios" id="preparatoria" checked><label for="preparatoria">Preparatoria</label>
+				<input type="radio" value="" name="estudios" id="licenciatura"><label for="licenciatura">Licenciatura</label>
+				<input type="radio" value="" name="estudios" id="maestria"><label for="maestria">Maestria</label>
+				<input type="radio" value="" name="estudios" id="doctorado"><label for="doctorado">Doctorado</label>
+				<input type="radio" value="" name="estudios" id="otro"><label for="otro">Otro</label>
+			</div>
+
+			<div class="grupo">
+				<p>Institución de Estudios</p>
+				<input type="radio" value="" name="institucion" id="valle"><label for="valle">Del Valle</label>
+				<input type="radio" value="" name="institucion" id="tec"><label for="tec">Tec</label>
+				<input type="radio" value="" name="institucion" id="uia"><label for="uia">UIA</label>
+				<input type="radio" value="" name="institucion" id="unam"><label for="unam">UNAM</label>
+				<input type="radio" value="" name="institucion" id="uvm"><label for="uvm">UVM</label>
+				<input type="radio" value="" name="institucion" id="otra"><label for="otra">Otra</label>
+			</div>
+		</div>
+		<div class="laboral">
+			<h3 align="center">Información Laboral</h3>
+			<div class="grupo">
+				<p>¿Te encuentras laborando actualmente?</p>
+				<input type="radio" value="" name="laboral" id="si"><label for="si">Sí</label>
+				<input type="radio" value="" name="laboral" id="no"><label for="no">No</label>
+			</div>
+			<div class="grupo">
+				<label for="empresa" >***Empresa:</label>
+				<input type="text" name="empresa" placeholder="Empresa:">
+			</div>
+			<div class="grupo">
+				<label for="puesto">***Puesto:</label>
+				<input type="text" name="puesto" placeholder="Puesto:">
+			</div>
+			<div class="grupo">
+				<label for="telefono">***Teléfono</label>
+				<input type="text" name="telefono" placeholder="Teléfono:">
+			</div>
+		</div>
+
+		<div class="encuesta">
+			<h3 align="center">Ecuesta</h3>
+			<div class="grupo">
+				<p>¿Cómo se enteró del programa?</p>
+				<input type="checkbox" value="catalogo" name="medio" id="catalogo"> <label for="catalogo">Catálogo</label>
+				<input type="checkbox" value="correo" name="medio" id="correo"> <label for="correo">Email</label>
+				<input type="checkbox" value="internet" name="medio" id="internet"> <label for="internet">Internet</label>
+				<input type="checkbox" value="amigos" name="medio" id="amigos"> <label for="amigos">Amigos</label>
+			</div>
+			<div class="grupo">
+				<p>¿Desea recibir noticias sobre otros programas?</p>
+				<input type="radio" name="noticias" value="si" id="si"><label for="si">Sí</label>
+				<input type="radio" name="noticias" value="no" id="no"><label for="no">No</label>
+			</div>
+		</div>
+	</form>
+	<p class="obliga">* campo obligatorio</p>
+	<p class="obligalabo">*** campo obligatorio si labora actualmente</p>
+</body>
+</html>

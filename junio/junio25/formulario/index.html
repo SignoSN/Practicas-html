@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+  <head>
+<meta charset="utf-8">
+<meta name="keywords" content="formulario, envio, datos">
+<meta name="description" content="como enviar datos a travez de un formulario en un documento HTML">
+<meta name="language" content="es">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>formulario</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+ 
+<body>
+
+<form action="./envio.php" method="post">
+  <fieldset>
+  <legend>Datos Personales</legend>
+  <label>Nombre</label>
+  <input type="text" id="nombre" name="nombre" >
+
+ <label>Apellidos</label>
+  <input type="text" id="apellido" name="apellido" size="30" maxlength="30">
+<label>Correo</label>
+<input type="email" id="correo" name="correo">
+  </fieldset>
+ 
+  <fieldset>
+    <legend>Gustos Personales</legend>
+    <label>¿Qué te gusta hacer en tu tiempo libre?</label>
+<br>
+    <label>leer</label>
+    <input type="radio" value="leer" name="tiempo" id="tiempo">
+    <label>Ver TV.</label>
+    <input type="radio" value="Ver TV." name="tiempo" id="tiempo">
+    <label>Escuchar Radio</label>
+    <input type="radio" value="Escuchar Radio" name="tiempo" id="tiempo">
+<hr>
+<label>Temas De Interes</label>
+<br>
+<input type="checkbox" value="Espectaculos" name="interes">
+<label>Espectaculos</label>
+
+<br>
+<input type="checkbox" value="Ciencia Ficción" name="interes">
+<label>Ciencia Ficción</label>
+
+<br>
+<input type="checkbox" value="Deportes" name="interes">
+<label>Deportes</label>
+</fieldset>
+
+<fieldset>
+<legend>Opciones Personales</legend>
+<label>¿De dónde nos visitas?</label>
+<br>
+<select name="localidad" id="localidad">
+  <option value="CDMX">CDMX</option>
+  <option value="EdoMex">Estado de México</option>
+  <option value="Colima">Colima</option>
+  <option value="Yucatan">Yucatan</option>
+</select>
+</fieldset>
+  <fieldset>
+<legend>Comentarios</legend>
+<label>Deja un comentario</label>
+<br>
+<textarea cols="30" rows="10" id="comentarios" name="comentarios"></textarea>
+
+</fieldset>
+
+<input type="submit" value="Enviar">
+<input type="reset" value="Limpiar">
+</form>
+
+</body>
+</html>
